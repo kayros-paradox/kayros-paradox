@@ -1,3 +1,5 @@
 ## Портфолио: дизайн
 
-<img height="50%" width="50%" src="/images/portfolio.png" />
+<div width="100%">
+    <img width="75%" src="/images/portfolio.png" />
+</div>
