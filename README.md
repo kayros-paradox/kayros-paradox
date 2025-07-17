@@ -1,5 +1,5 @@
 ## Портфолио: дизайн
 
-<div align="center" width="100%" background-color="#2b2b2b">
-    <img width="60%" src="/images/portfolio.png" />
+<div align="center" width="100%">
+    <img width="60%" src="/images/portfolio.png" border-radius="20%"/>
 </div>
