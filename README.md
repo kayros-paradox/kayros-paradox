@@ -1,5 +1,5 @@
 ## Портфолио: дизайн
 
-<div width="100%">
-    <img style="margin-left: 20%; margin-right: 20%;" width="60%" src="/images/portfolio.png" />
+<div style="padding-left: 20%; padding-right: 20%;">
+    <img width="60%" src="/images/portfolio.png" />
 </div>
