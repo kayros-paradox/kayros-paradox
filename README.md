@@ -1,3 +1,3 @@
 ## Дизайн / Портфолио
 
-<img width="100%" src="/images/portfolio.png"/>
+<img height="80%" src="/images/portfolio.png"/>
